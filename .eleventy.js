@@ -12,9 +12,8 @@ module.exports = (function (eleventyConfig) {
     rightDelimiter: '}',
     allowedAttributes: []
   });
-
+  eleventyConfig.setUseGitIgnore(false);
   eleventyConfig.setLibrary("md", markdownIt);
-
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("script");
 
