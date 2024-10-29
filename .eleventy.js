@@ -24,6 +24,7 @@ module.exports = (function (eleventyConfig) {
     let returnValue = '';
     let counter = 0;
     let currentMenu = '';
+    let currentButtonAria = '';
     let currentUrl = '';
     menu.forEach(item => {
       if (currentMenu != item.menu) {
@@ -45,10 +46,14 @@ module.exports = (function (eleventyConfig) {
       let ariaCurrent = item.title === title || item.longtitle === title ? ' aria-current="page"' : '';
       if (item.title === title || item.longtitle === title) {
         currentUrl = item.url;
+        currentButtonAria = `aria-controls="menu${(counter-1)}"`;
       }
       returnValue += `<li><a href="/${item.url}/index.html"${ariaCurrent}>${item.title}</a></li>`;
     });
     returnValue += `</ul></li>`;
+    if (currentButtonAria != '') {
+      returnValue = returnValue.replace(currentButtonAria, currentButtonAria + ' class="menu-button-active"');
+    }
     // adding give and archive links
     returnValue += `<li class="line"><a class="menu-link" href="https://give.education.illinois.edu">Give</a></li>`;
     returnValue += `<li>

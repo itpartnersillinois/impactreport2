@@ -107,6 +107,10 @@ header nav {
     width: 100%;
   }
 
+  button.menu-button-active {
+    border-left: 6px solid var(--il-orange);
+  }
+
   button:hover,
   button:focus,
   button[aria-expanded="true"] {
