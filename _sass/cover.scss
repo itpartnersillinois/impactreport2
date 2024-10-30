@@ -6,7 +6,7 @@ main.cover ilw-content {
     .cover-text {
         background: var(--il-orange);
         text-align: center;
-        padding: 2.5rem 1.25rem;
+        padding: 0 1.25rem 2.5rem 1.25rem;
 
         h1 {
             margin: 0;
@@ -17,24 +17,18 @@ main.cover ilw-content {
                 font-style: normal;
                 font-weight: 700;
                 text-align: center;
+                font-family: var(--il-font-sans);
             }
             span.impact {
-                font-family: var(--il-font-heading);
-                font-size: 2rem;
-                line-height: 2.25rem; /* 112.5% */
-            }
-            span.title {
-                font-family: var(--il-font-heading);
-                font-size: 3.1875rem;
-                line-height: 3.5625rem; /* 111.765% */
-                letter-spacing: 0.1275rem;
-                text-transform: uppercase;
+                font-size: 2.6rem;
+                line-height: 2.95rem;
+                padding-top: .5rem;
             }
             span.education {
-                font-family: var(--il-font-sans);
-                font-size: 1.5625rem;
-                font-weight: 600;
-                line-height: 2rem; /* 128% */
+                font-size: 1.1875rem;
+                font-weight: 700;
+                line-height: 1.48rem;
+                padding-top: .5rem;
             }
         }
     }
