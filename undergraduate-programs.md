@@ -39,8 +39,8 @@ pageTitle: Undergraduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic class="orange"><span slot="stat">749</span> Fall 2024 undergraduate student enrollment</ilw-statistic>
-<ilw-statistic><span slot="stat">30%</span> Undergraduate students from underrepresented populations</ilw-statistic>
+<ilw-statistic class="orange" size="large"><span slot="stat">749</span> Fall 2024 undergraduate student enrollment</ilw-statistic>
+<ilw-statistic size="large"><span slot="stat">30%</span> Undergraduate students from underrepresented populations</ilw-statistic>
 </div>
 </ilw-columns>
 

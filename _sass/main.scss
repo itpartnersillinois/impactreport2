@@ -9,8 +9,8 @@ body {
     .page {
         clear: both;
 
-        h1 {
-            font-family: var(--il-font-heading);
+        h1, ilw-content h1 {
+            font-family: var(--il-font-sans);
         }
 
         h2,

@@ -53,8 +53,8 @@ pageTitle: Online Graduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic class="orange"><span slot="stat">871</span> 2023-24 online graduate student enrollment</ilw-statistic>
-<ilw-statistic><span slot="stat">25%</span> Online graduate students from underrepresented populations</ilw-statistic>
+<ilw-statistic class="orange" size="large"><span slot="stat">871</span> 2023-24 online graduate student enrollment</ilw-statistic>
+<ilw-statistic size="large"><span slot="stat">25%</span> Online graduate students from underrepresented populations</ilw-statistic>
 </div>
 </ilw-columns>
 

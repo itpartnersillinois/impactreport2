@@ -28,9 +28,9 @@ pageTitle: Graduate Programs
 </ilw-content>
 
 <div>
-<ilw-statistic class="orange"><span slot="stat">437</span> Fall 2024 total on-campus graduate student enrollment</ilw-statistic>
-<ilw-statistic><span slot="stat">29%</span> On-campus graduate students from underrepresented populations</ilw-statistic>
-<ilw-statistic class="orange"><span slot="stat">26%</span> On-campus graduate students from international populations</ilw-statistic>
+<ilw-statistic class="orange" size="large"><span slot="stat">437</span> Fall 2024 total on-campus graduate student enrollment</ilw-statistic>
+<ilw-statistic size="large"><span slot="stat">29%</span> On-campus graduate students from underrepresented populations</ilw-statistic>
+<ilw-statistic class="orange" size="large"><span slot="stat">26%</span> On-campus graduate students from international populations</ilw-statistic>
 </div>
 
 </ilw-columns>
