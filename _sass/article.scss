@@ -6,9 +6,6 @@ main#article {
         line-height: normal;
         margin-top: 0.25rem;
     }
-    .byline.article-byline {
-        margin-top: 1.25rem;
-    }
 
     ilw-content {
         display: block;
@@ -23,6 +20,10 @@ main#article {
     ilw-content h1 {
         font-size: 2.5rem;
         line-height: 2.875rem;
+    }
+
+    ilw-content h1:has(+ p.byline) {
+        margin-bottom: 0;
     }
 
     ilw-content p.introduction {
