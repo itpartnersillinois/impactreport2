@@ -5,7 +5,7 @@ byline: By Makenna Norman, The Daily Illini
 ---
 <ilw-content width="page">
 
-![Gabriella Potocki](/img/alumni/potocki.jpg){.left}
+![Gabriella Potocki](/img/alumni/potocki.jpg) Photo by Gabby Galloway{.left}
 
 **Gabriella Potocki** graduated from the University of Illinois in May 2024 with a degree in Learning & Education Studies. She began her career weeks later as part of Caterpillar’s learning and development team where she develops leadership training programs for Caterpillar’s IT staff.
 

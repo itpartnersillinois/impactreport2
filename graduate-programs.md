@@ -6,10 +6,7 @@ pageTitle: Graduate Programs
 
 # Graduate Programs
 
-</ilw-content></div>
-
-<ilw-columns width="page">
-<ilw-content>
+</ilw-content></div><ilw-columns width="page"><ilw-content class="no-top-margin">
 
 **On-campus graduate students apply to one of our four departments:**
 * Curriculum & Instruction
@@ -18,9 +15,9 @@ pageTitle: Graduate Programs
 * Special Education
 
 **Degrees offered:**
-* Certificate of Advanced Study (CAS)
-* Doctorate of Education
-* Doctorate of Philosophy
+* Certificate of Advanced Study
+* Doctor of Education
+* Doctor of Philosophy
 * Master of Arts
 * Master of Education
 * Master of Science

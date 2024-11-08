@@ -3,6 +3,7 @@ layout: article-indigenous.liquid
 pageTitle: Indigenous Leadership
 byline: "Image: Canyon de Chelly National Monument, Navajo Nation, Arizona, USA"
 section: Community
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/02/07/navajo-scholar-s-indigenous-leadership-research-aids-educators-of-native-students
 ---
 <ilw-content width="page">
 

@@ -5,6 +5,7 @@ byline: By Tom Hanlon
 section: Innovation
 headImage: /img/innovation/researchers.jpg
 headAlt: The School for Center and Design
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/06/11/how-researchers-at-illinois-stimulate-learning--create-tools--and-disrupt-education
 ---
 <ilw-content width="page">
 
@@ -12,7 +13,7 @@ The College of Education and the Siebel Center for Design have been collaboratin
 
 </ilw-content>
 
-<ilw-columns width="page" gap="20px">
+<ilw-columns width="page" gap="20px" class="circle-column">
 <ilw-content>
 
 ![](/img/innovation/switzky.jpg){.circle}
@@ -63,7 +64,7 @@ Faculty focus on collaborative research, development, and innovation that brings
 
 </ilw-content>
 
-<ilw-columns width="page" gap="20px">
+<ilw-columns width="page" gap="20px" class="circle-column">
 <ilw-content>
 
 ![](/img/innovation/castro.jpg){.circle}
@@ -93,7 +94,7 @@ Teaching associate professor
 
 </ilw-content>
 </ilw-columns>
-<ilw-columns width="page" gap="20px">
+<ilw-columns width="page" gap="20px" class="circle-column">
 <ilw-content>
 
 ![](/img/innovation/kalantzis.jpg){.circle}

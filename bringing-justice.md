@@ -3,6 +3,7 @@ layout: article.liquid
 pageTitle: How to Bring Justice & Active Learning Front and Center in Social Studies
 byline: By Tom Hanlon
 section: Momentum
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/09/04/how-to-bring-justice-and-active-learning-front-and-center-in-social-studies
 ---
 <ilw-content width="page">
 
@@ -42,4 +43,4 @@ We believe that all students deserve inquiry-based and justice-centered learning
 
 </ilw-content>
 
-<ilw-statistic><span slot="stat">500K+</span> More than 500,000 students have benefited from Social Studies Network initiatives.</ilw-statistic>
+<ilw-statistic class="orange"><span slot="stat">500K+</span> More than 500,000 students have benefited from Social Studies Network initiatives.</ilw-statistic>

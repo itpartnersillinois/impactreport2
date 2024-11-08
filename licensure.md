@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: Education at Illinois Leaders Create Licensure Recommendations for K-12 Teachers on Trauma-Informed Practices
 section: Momentum
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/07/19/education-at-illinois-leaders-create-licensure-recommendations-for-k-12-teachers-on-trauma-informed-practices
 ---
 <ilw-content width="page">
 

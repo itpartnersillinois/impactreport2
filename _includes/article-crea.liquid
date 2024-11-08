@@ -9,7 +9,7 @@
             {% include header.liquid %}
         </header>
         <main id="article" class="crea">
-            <ilw-content width="page">
+            <ilw-content width="page" style="contain: layout;">
                 <div class="section-pill {{ section }}">{{ section }}</div>
             </ilw-content>
             <ilw-hero align="bottom" alwayson="true"><img src="/img/discovery/crea.jpg" alt="" slot="background"><h1>CREA: Embodying Cognitive, Cultural and Interdisciplinary Diversity</h1></ilw-hero>
@@ -22,7 +22,7 @@
                 <div>
                 {{ content }}
                 </div>
-                <ilw-statistic><span slot="stat">4</span> CREA has established four U.S. and international affiliates to address and implement culturally responsive evaluation and assessment.</ilw-statistic>
+                <ilw-statistic class="orange"><span slot="stat">4</span> CREA has established four U.S. and international affiliates to address and implement culturally responsive evaluation and assessment.</ilw-statistic>
             </ilw-columns>
 
             <ilw-content width="page">
@@ -37,7 +37,11 @@
                 <p><strong>Valencia Clement</strong> is a first-generation Haitian-American artist, activist and researcher, and the inaugural <strong>Stafford Hood Fellow of Culturally Responsive Assessment</strong> at the Center for Measurement Justice.</p>
             </div>
             </ilw-content>
-
+            {% if readMore %}
+            <ilw-content width="page">
+            <p class="readmore"><a href="{{ section }}" class="ilw-button ilw-theme-blue-1">Read Full Story</a></p>
+            </ilw-content>
+            {% endif %}
             {% include arrows.liquid %}
         </main>
         {% include footer.liquid %}

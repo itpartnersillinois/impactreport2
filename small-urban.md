@@ -10,7 +10,7 @@ headAlt: University of Illinois campus seen from above
 
 ![Victor Perez](/img/momentum/perez.jpg){.float-left}
 
-The second annual TEACH Academy, offered through the Center for Education in Small Urban Communities was held on the University of Illinois Urbana-Champaign campus over three days this past July. Victor Perez is director of Center for Education in Small Urban Communities and of TEACH Academy.
+The second annual **TEACH Academy**, offered through the Center for Education in Small Urban Communities was held on the University of Illinois Urbana-Champaign campus over three days this past July. **Victor Perez** is director of Center for Education in Small Urban Communities and of TEACH Academy.
 
 The power-packed conference offered local educators the opportunity to grow and invest in their—and their students’—future.
 

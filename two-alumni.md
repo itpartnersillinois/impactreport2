@@ -1,6 +1,7 @@
 ---
 layout: article.liquid
 pageTitle: Two Alumni Win 2024 Golden Apple Award for Excellence in Teaching & Leadership
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/05/15/two-alumni-win-2024-golden-apple-award-for-excellence-in-teaching---leadership
 ---
 <ilw-content width="page">
 

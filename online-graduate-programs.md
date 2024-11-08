@@ -6,13 +6,9 @@ pageTitle: Online Graduate Programs
 
 # Online Graduate Programs
 
-</ilw-content></div>
+</ilw-content></div><ilw-columns width="page"><ilw-content class="no-top-margin">
 
-<ilw-columns width="page">
-<ilw-content>
-
-**Doctoral and Master’s Degree Programs in**
-* Education Policy, Organization & Leadership:
+**Doctoral and Master’s Degree Programs in Education Policy, Organization & Leadership:**
 * Diversity & Equity in Education
 * Global Studies in Education
 * Human Resource Development
@@ -46,8 +42,7 @@ pageTitle: Online Graduate Programs
 
 **Endorsement Programs:**
 * Bilingual & English as a Second Language
-* Learning Design & Leadership:
-* Technology Specialist
+* Learning Design & Leadership: Technology Specialist
 * Teaching Computer Science
 
 </ilw-content>

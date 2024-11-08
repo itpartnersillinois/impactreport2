@@ -66,7 +66,6 @@ module.exports = (function (eleventyConfig) {
     </button>
     <ul id="menu-archive" class="submenu">`;
     returnValue += `<li><a href="/archive2023/index.html">2023 Impact Report</a></li>`;
-    returnValue += `<li><a href="/archive2022/index.html">2022 Impact Report</a></li>`;
     returnValue += `<li><a href="/archive2021/index.html">2021 Impact Report</a></li>`;
     returnValue += `<li><a href="/archive2020/index.html">2020 Impact Report</a></li>`;
     returnValue += `</ul></li>`;

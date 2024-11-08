@@ -1,10 +1,11 @@
 ---
 layout: article.liquid
 pageTitle: Tjelmeland Named Illinois Alumni Association Award Winner
+readMore: https://blogs.illinois.edu/view/1526/79741713
 ---
 <ilw-content width="page">
 
-![Michelle Tjelmenland, with hand on hip](/img/alumni/tjelmeland.jpg) Photo by Orion Buckingham{.left}
+![Michelle Tjelmenland, with hand on hip](/img/alumni/tjelmeland.jpg) Photo by Orion Buckingham{.half}
 
 The University of Illinois Alumni Association named **Michelle Tjelmeland**, Ed.M. ‘00 EDU, the Diversity and Inclusion Award Recipient for its 2024 Alumni Awards.
 

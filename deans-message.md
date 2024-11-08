@@ -17,7 +17,7 @@ Through interdisciplinary research, culturally responsive practice, and public e
 
 ![Dean Chrystalla Mouza, smiiling and looking confident](/img/dean.webp){.dean-left}
 
-# Dean’s Message
+# Dean’s Message{.no-bottom-margin}
 
 Connection is the catalyst for positive momentum. The success of Education at Illinois—and the field of education—relies on building and maintaining strong partnerships.
 
@@ -33,7 +33,7 @@ I look forward to staying connected with you over the coming year, and to leadin
 
 Yours in Orange & Blue,
 
-Chrystalla Mouza
+**Chrystalla Mouza**
 Dean, College of Education
 
 </ilw-content>

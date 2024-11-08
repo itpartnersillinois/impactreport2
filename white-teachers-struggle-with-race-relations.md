@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: Whether a Racial Minority or Majority at Their School, White Teachers Struggle with Race Relations
 section: Discovery
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/01/31/whether-a-racial-minority-or-majority-at-their-school--white-teachers-struggle-with-race-relations
 ---
 <ilw-content width="page">
 

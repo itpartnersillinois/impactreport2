@@ -2,9 +2,10 @@
 layout: article.liquid
 pageTitle: Cultural Capital is Key to a Sense of Belonging for College Students of Color
 section: Community
+readMore: https://education.illinois.edu/about/news-events/news/article/2023/11/17/cultural-capital-is-key-to-a-sense-of-belonging-for-college-students-of-color
 ---
 
-<ilw-columns width="page" gap="20px">
+<ilw-columns width="page" gap="20px" class="circle-column">
 <ilw-content>
 
 ![Amir Maghsoodi](/img/community/maghsoodi.jpg)

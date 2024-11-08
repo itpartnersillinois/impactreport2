@@ -9,7 +9,7 @@ bodyClass: program-rankings
 
 ## Program Rankings{.orange}
 
-<ilw-statistic size="x-large" class="orange float-right"><span slot="stat">#9</span> Ranked #9 public university in the nation<span slot="source">U.S. News & World Report</span></ilw-statistic>
+<ilw-statistic size="x-large" class="orange float-right-desktop"><span slot="stat">#9</span> Ranked #9 public university in the nation<span slot="source">U.S. News & World Report</span></ilw-statistic>
 
 *2024 U.S. News & World Report* rankings for our departments and programs
 
@@ -25,7 +25,7 @@ bodyClass: program-rankings
 
 </ilw-content>
 
-<ilw-content width="page">
+<ilw-content width="page" padding="15px 0 0 0" class="program-milestones">
 
 ## 2023-24 Departmental Milestones{.orange}
 

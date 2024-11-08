@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: "An Illinois Legacy: Three Generations of Teachers and Commitment to Special Education"
 byline: By Orion Buckingham
+readMore: https://education.illinois.edu/about/news-events/news/article/2023/11/14/an-illinois-legacy--three-generations-of-teachers-and-a-commitment-to-special-education
 ---
 <ilw-content width="page">
 

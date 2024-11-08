@@ -6,7 +6,7 @@ pageTitle: Undergraduate Programs
 
 # Undergraduate Programs
 
-</ilw-content></div><ilw-columns width="page"><ilw-content>
+</ilw-content></div><ilw-columns width="page"><ilw-content class="no-top-margin">
 
 **Bachelor of Science plus licensure:**
 * Early Childhood Education

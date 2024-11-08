@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: Variety is the Spice of Learning and Memory
 section: Discovery
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/09/12/variety-is-the-spice-of-learning--memory-study-suggests
 ---
 <ilw-content width="page">
 

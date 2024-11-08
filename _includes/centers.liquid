@@ -15,7 +15,7 @@
         <h1>Centers & Initiatives</h1>
         </ilw-content></div>
         <ilw-content class="centers">
-           <ilw-grid width="page">
+           <ilw-grid width="page" gap="30px">
             {%- for center in centers %}
                 <p><a href="{{ center.link }}">{{ center.title }}</a> {{ center.description }}</p>
             {% endfor -%}

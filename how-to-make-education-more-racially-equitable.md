@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: "Bucking the Status Quo: How to Make Education More Racially Equitable"
 section: Momentum
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/04/12/bucking-the-status-quo--how-to-make-education-more-racially-equitable
 ---
 <ilw-content width="page">
 

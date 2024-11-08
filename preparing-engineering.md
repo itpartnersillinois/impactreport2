@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: Collaborative Learning Experiences Prepare Engineering Students for the Workforce
 section: Innovation
+readMore: https://education.illinois.edu/about/news-events/news/article/2023/11/03/collaborative-learning-experiences-crucial-in-preparing-engineering-students-for-the-workforce
 ---
 <ilw-content width="page">
 

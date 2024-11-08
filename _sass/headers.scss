@@ -11,3 +11,7 @@
 h2.orange, h3.orange, h4.orange { 
     color: var(--il-orange);
 }
+
+ilw-content h1.no-bottom-margin {
+    margin-bottom: 0;
+}

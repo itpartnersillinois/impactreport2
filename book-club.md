@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: High School Book Club Explores the Complexities, Joys of Black Life
 section: Discovery
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/21/paper--high-school-book-club-with-prisoner-on-death-row-explores-the-complexities--joys-of-black-life
 ---
 <ilw-content width="page">
 

@@ -17,18 +17,21 @@ main.cover ilw-content {
                 font-style: normal;
                 font-weight: 700;
                 text-align: center;
-                font-family: var(--il-font-sans);
+                font-family: var(--il-font-heading);
             }
             span.impact {
-                font-size: max(7vw, 2.6rem);
+                font-size: max(5.5vw, 2.6rem);
                 line-height: 2.95rem;
-                padding-top: 1.3vw;
+                margin-top: 2.5rem;
+                text-transform: uppercase;
             }
             span.education {
                 font-size: max(2.3vw, 1.1875rem);
                 font-weight: 700;
                 line-height: 1.48rem;
+                font-family: var(--il-font-sans);
                 padding-top: calc(2.5vw + .5rem);
+                padding-bottom: 2.5rem;
             }
         }
     }

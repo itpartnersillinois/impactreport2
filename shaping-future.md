@@ -2,6 +2,7 @@
 layout: article.liquid
 pageTitle: Helping Policymakers Shape the Future of Computer Science Education
 section: Innovation
+readMore: https://education.illinois.edu/about/news-events/news/article/2024/02/29/helping-policymakers-shape-the-future-of-computer-science-education
 ---
 <ilw-content width="page">
 
