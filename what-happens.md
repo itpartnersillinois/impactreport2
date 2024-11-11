@@ -3,6 +3,8 @@ layout: article-what-happens.liquid
 pageTitle: What Happens When Students Follow Their Passion?
 byline: By Tom Hanlon
 section: Discovery
+headImage: /img/discovery/sax.jpg
+headAlt: A girl playing saxaphone
 bodyClass: good-things
 readMore: https://education.illinois.edu/about/news-events/news/article/2024/06/14/what-happens-when-you-allow-students-to-follow-their-passion-good-things
 ---

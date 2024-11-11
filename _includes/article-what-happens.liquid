@@ -9,7 +9,10 @@
             {% include header.liquid %}
         </header>
         <main id="article">
-            <ilw-spacer height="60px"></ilw-spacer>
+            {% if headImage %}
+            <img src="{{ headImage }}" alt="{{ headAlt }}" class="ilw-image-cover headImage">
+            <ilw-spacer height="30px"></ilw-spacer>
+            {% endif %}
             <ilw-content width="page">
                 <div class="section-pill {{ section }}">{{ section }}</div>
                 <ilw-spacer height="30px"></ilw-spacer>
