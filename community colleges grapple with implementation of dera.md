@@ -3,7 +3,7 @@ layout: article.liquid
 pageTitle: Community Colleges Grapple with Implementation of DERA Paradigm Shift in Developmental Education
 byline: By Hanna Kim, Samuel Kumi, and Nina Owolabi
 section: 
-readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/12/addressing-perinatal-mental-health-issues-through-a-collaborative-research-approach
+readMore: 
 ---
 <ilw-content width="page">
 
