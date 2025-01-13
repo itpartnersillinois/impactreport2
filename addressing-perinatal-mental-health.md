@@ -7,8 +7,6 @@ readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/
 ---
 <ilw-content width="page">
 
-Illinois researchers are developing better practices for supporting perinatal mental health needs.{.introduction}
-
 ![Cartoon of a pregnant woman being treated by a physician](/img/innovation/perinatal.webp)
 
 **Researchers at Illinois are combining forces to tackle the leading cause of death for pregnant women in the United States: mental health.**
