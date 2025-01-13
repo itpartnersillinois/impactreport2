@@ -7,7 +7,7 @@ readMore:
 ---
 <ilw-content width="page">
 
-![Cartoon of a pregnant woman being treated by a physician](/img/innovation/perinatal.webp)
+![Cartoon of a pregnant woman being treated by a physician](/img/winter24/img/image.jpg)
 
 ## Introduction
 
