@@ -9,7 +9,7 @@ readMore: https://education.illinois.edu/about/news-events/news/article/2024/08/
 
 ![Cartoon of a pregnant woman being treated by a physician](/img/innovation/perinatal.webp)
 
-** Introduction
+## Introduction
 
 Illinois community colleges continue to innovate amid legislative changes and a recent shift in administering developmental education prompted by the Developmental Education Reform Act (DERA). Developmental education aims to support students with diverse needs and strengthen math, reading, and writing skills in preparation for college-level courses. However, racially minoritized students are disproportionately placed in development education courses and at lower levels, often requiring them to complete multiple pre-college courses (Brown, 2022; Chen & Simone, 2016). Researchers note that this placement creates greater equity gaps among students. Scholarship indicates that many community college students will test into developmental education courses, particularly in mathematics and language skills, for college-level coursework (Chen & Simone, 2016; Jaggars & Bickerstaff, 2018). In 2014, nearly half of the community college students in Illinois were placed into a developmental education course (Abrahamson & Power, 2024). 
 
